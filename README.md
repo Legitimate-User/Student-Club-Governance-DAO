@@ -70,3 +70,7 @@ Add proposal types (budget request, event approval) and metadata.
 Replace single admin with a multisig or DAO-controlled admin.
 
 Add off-chain signature voting (EIP-712) for gas savings.
+
+<img width="2559" height="1183" alt="image" src="https://github.com/user-attachments/assets/853446b1-a19f-4fee-9740-f71ac1cbfbac" />
+
+0x299F04c8C50163756D21107F99c3ddcEc09d5Ea0
